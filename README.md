@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-I'm Neila, a newcomer in the data field with 7 years of experience in government auditing.
+I'm Neila, a Project Manager and data enthusiast with 7 years of experience in government auditing. My work bridges project execution, data analysis, and quality assurance — turning structure and insights into better decision-making.
 
-- 🔭 Currently working on projects including Web Scraping, with upcoming projects in Time Series Analysis and Customer Segmentation
+- Currently managing AI-related projects while continuing hands-on learning in data analysis and quality evaluation
 
-- 🌱 Focused on strengthening my skills in Python and SQL
+- Strengthening my skills in Python, SQL, and data visualization
 
-I'm always open to collaborating on meaningful data projects!
+- Passionate about optimizing systems, finding insights through data, and improving workflow quality
+
+- Always open to collaborate on meaningful projects involving data, analytics, or process improvement
 
 I'm open to collaborate for any data projects! Feel free to contact me via [email](neila.ismahunnisa@gmail.com) and [LinkedIn](https://www.linkedin.com/in/neila-ismahunnisa/).
 
